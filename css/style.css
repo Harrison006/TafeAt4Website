@@ -2,8 +2,7 @@
 body {
 	display: flex;
 	flex-direction: column;
-	min-width: px;
-	width: auto;
+	width: 95%;
 }
 
 body > * {
