@@ -1,8 +1,10 @@
-# TafeAt4Website
+# Tafe ICT CERT 3 (III) At4 Website Cluster assignment
 
 
 This is the ICTWEB Cluster assignment completed
 
-please do not copy this exactly, the teacher will obviously know
+Purley used for an example.
 
-but take a look and i hope this helps with your assignment :)
+*use this code as pureley an example*
+
+
